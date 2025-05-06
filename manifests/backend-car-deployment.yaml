@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: api
-        image: santospardos/docker-backend-car:00
+        image: cosmindrusu/back-aa2:00
         imagePullPolicy: Always
         ports:
         - containerPort: 80
